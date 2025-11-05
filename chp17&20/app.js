@@ -2,9 +2,9 @@
 
 //Problem 1
 let multidimensionalarray = [
-    ["Abdullah", 87],
+    ["usaid", 87],
     ["Bilal", 78],
-    ["Hasan", 90]
+    ["hamza", 90]
 ];
 
 //Problem 2
@@ -95,4 +95,5 @@ for (let i = 1; i <=100; i++) {
   if(i % 5 == 0){
      console.log(`Multiple of 5 ==> ${i}`);
   }
+
 };
